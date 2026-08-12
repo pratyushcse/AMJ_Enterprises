@@ -102,20 +102,20 @@ Animations, transitions and visual effects are used to create a more engaging br
 
 ### Frontend
 
-```text
+
 HTML5
 CSS3
 JavaScript
 Responsive Web Design
-```
+
 
 ### Development & Version Control
 
-```text
+
 VS Code
 Git
 GitHub
-```
+
 
 ---
 
@@ -125,7 +125,7 @@ This project gave me practical experience building a website for a real business
 
 I worked on areas including:
 
-```text
+
 UI Design
       ↓
 Responsive Layout
@@ -141,7 +141,7 @@ Portfolio Presentation
 Contact Experience
       ↓
 Deployment
-```
+
 
 The project helped strengthen my understanding of creating interfaces that balance **design, usability and business requirements**.
 
@@ -151,7 +151,6 @@ The project helped strengthen my understanding of creating interfaces that balan
 
 AMJ Enterprises was designed to provide a consistent experience across different screen sizes.
 
-```text
 ┌───────────────────────────────────────┐
 │              DESKTOP                  │
 │      Full visual experience           │
@@ -166,7 +165,6 @@ AMJ Enterprises was designed to provide a consistent experience across different
 │       MOBILE        │
 │   Compact layout    │
 └─────────────────────┘
-```
 
 Layouts, navigation, content and visual elements adapt according to the available screen space.
 
@@ -176,15 +174,11 @@ Layouts, navigation, content and visual elements adapt according to the availabl
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/pratyushcse/AMJ_Enterprises.git
-```
 
 ### 2. Enter the project
 
-```bash
 cd AMJ_Enterprises
-```
 
 ### 3. Open the project
 
@@ -194,9 +188,7 @@ Open the folder using **VS Code** or another editor.
 
 Open:
 
-```text
 index.html
-```
 
 in your browser.
 
@@ -216,13 +208,11 @@ The production website allows customers to access the AMJ Enterprises digital ex
 
 ## 📈 Project Status
 
-```text
 PROJECT        AMJ ENTERPRISES
 TYPE           BUSINESS WEBSITE
 CATEGORY       LED WALL / VISUAL SOLUTIONS
 STATUS         LIVE
 DEVELOPER      PRATYUSH
-```
 
 🟢 **Production website is live**
 
