@@ -147,29 +147,6 @@ The project helped strengthen my understanding of creating interfaces that balan
 
 ---
 
-## 📱 Responsive Experience
-
-AMJ Enterprises was designed to provide a consistent experience across different screen sizes.
-
-┌───────────────────────────────────────┐
-│              DESKTOP                  │
-│      Full visual experience           │
-└───────────────────────────────────────┘
-                   ↓
-┌──────────────────────────────┐
-│            TABLET            │
-│      Adaptive interface      │
-└──────────────────────────────┘
-                   ↓
-┌─────────────────────┐
-│       MOBILE        │
-│   Compact layout    │
-└─────────────────────┘
-
-Layouts, navigation, content and visual elements adapt according to the available screen space.
-
----
-
 ## 🚀 Run The Project Locally
 
 ### 1. Clone the repository
